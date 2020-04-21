@@ -21,7 +21,7 @@ function promptUser() {
     {
       type: "input",
       name: "Livesite",
-      message: "if yes, what is the link to the live site. Include https://"
+      message: "What is the link to the live site. Include https://"
     },
     {
       type: "input",
@@ -47,7 +47,7 @@ function promptUser() {
     {
       type: "input",
       name: "contributors",
-      message: "Does the user nned to know anything about contributing to the repo?"
+      message: "Does the user need to know anything about contributing to the repo?"
     },
     {
       type: "input",
